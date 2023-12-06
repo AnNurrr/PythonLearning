@@ -1,3 +1,6 @@
+# Ainur
+# 12/-6/2023
+# Draws star with turtle
 import turtle
 
 screen = turtle.Screen()
